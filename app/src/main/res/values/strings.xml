@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AK</string>
+    <string name="action_settings">Настройки</string>
+    <string name="share">Поделиться</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="action_share">Поделиться</string>
+    <string name="title_activity_screen">Screen</string>
+    <string name="title_activity_on_off">OnOff</string>
+    <string name="txt_3g">3G</string>
+    <string name="txt_wifi">WI-FI</string>
+    <string name="title_activity_ad_mob">AdMob</string>
+    <string name="ak">Аренда Квартир</string>
+
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <string name="start_level">Level 1</string>
+    <string name="next_level">Next Level</string>
+    <!-- -
+        This is an ad unit ID for an interstitial test ad. Replace with your own interstitial ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="interstitial_ad_unit_id">ca-app-pub-9804269291179623</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
